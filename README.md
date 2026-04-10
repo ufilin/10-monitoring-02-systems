@@ -73,10 +73,12 @@ push: TICK
 <p align="center">
   <img src="monitoring_task-7.png" width="800">
 </p>
+
 ### 8. Результат
 <p align="center">
   <img src="monitoring_task-8.png" width="800">
 </p>
+
 ### 9. Результат
 <p align="center">
   <img src="monitoring_task-9.png" width="800">
